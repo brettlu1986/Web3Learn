@@ -1,0 +1,65 @@
+历史任务：
+1.区块链扫盲：https://github.com/MetaNodeAcademy/LearningRoadmap/blob/main/web3%E6%89%AB%E7%9B%B2.md
+   肖臻的区块链课程
+2.面试部分  Lincoln老师
+课程Jamie老师履历 ：Jamie老师之前是浙大链协会长
+- Jamie（Golang 以太坊开发导师）Top3院校硕士，曾任链协会长，曾获Polygon黑客松最佳大学生Dapp奖；专注区块链后端与合约开发，精通Go、JS、Solidity等语言；熟悉Bitcoin、Ethereum等公链的底层原理与共识机制；掌握密码学、零知识证明等原理与实践方法，具备系统架构设计和应用搭建能力。
+- 建议 方向 后端开发+合约辅助， 纯智能合作开发一是岗位资源有限，再者他对合约要求比较高，有的可能不止要求会 solidity 一门合约需要，智能合作会比较窄，后端+合约因为有 go 后端开发兜底，还是会有拓宽方向的
+3.课程1：下周任务：区块链基本原理学习
+任务目标：理解区块链基本概念（不需要背），掌握典型公链 BTC 和 Ethereum 的基础架构、网络与共识体系，掌握密码学基础，了解 layer1 与 layer2 基本原理
+资料：
+1️⃣web3 扫盲：https://github.com/MetaNodeAcademy/LearningRoadmap/blob/main/web3%E6%89%AB%E7%9B%B2.md
+2️⃣区块链技术进阶：https://github.com/MetaNodeAcademy/LearningRoadmap/blob/main/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E8%BF%9B%E9%98%B6.md
+扩展：
+1.以太坊/比特币白皮书
+2. 肖臻《区块链技术与应用》公开课，https://www.bilibili.com/video/BV1Vt411X7JF/?spm_id_from=333.337.search-card.all.click&vd_source=765504182315da1e63cea5260af948d7
+4.本周任务：Go语言基础语法学习
+学习目标：
+1.Go基本语法 & Go 进阶
+2.基本原理加深理解，结合图谱整理脑图
+资料：
+https://github.com/MetaNodeAcademy/LearningRoadmap/blob/main/%E5%9F%BA%E7%A1%801-go%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80.md
+扩展：
+1.effective go 电子书: https://go-zh.org/doc/effective_go.html
+
+5.本周任务：Go web 框架 gin & 数据库框架 gorm
+学习目标：
+在 go 基础原理基础上，熟练掌握其常用后端开发 web2 库的使用
+资料：任务 3和任务 4
+https://github.com/MetaNodeAcademy/LearningRoadmap/blob/main/%E5%9F%BA%E7%A1%801-go%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80.md
+扩展资料：
+gin 框架文章：https://www.liwenzhou.com/posts/Go/gin/
+
+6. 本周任务
+资料：https://github.com/MetaNodeAcademy/LearningRoadmap/blob/main/%E8%BF%9B%E9%98%B61-DApp%E5%90%8E%E7%AB%AF%E5%AE%9E%E6%88%98.md
+学习目标：
+任务1 掌握 geth sdk
+任务2 (非必修）go-ethereum源码了解，对强区块链原理章节是一个复习与加强
+
+7.下周任务：solidity 基础与进阶
+重点学习目标： @铮 
+掌握 solidity 语法，学习任务 1️⃣和任务2️⃣
+资料：
+https://github.com/MetaNodeAcademy/LearningRoadmap/blob/main/%E5%9F%BA%E7%A1%802-%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%9F%BA%E7%A1%80.md
+
+8. 下周任务：合约脚手架与典型功能应用 @铮
+1.solidity进阶任务3️⃣
+资料：https://github.com/MetaNodeAcademy/LearningRoadmap/blob/main/%E5%9F%BA%E7%A1%802-%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%9F%BA%E7%A1%80.md
+2.hardhat & foundry合约开发框架学习
+(hardhat 部分)社区资料：https://github.com/MetaNodeAcademy/LearningRoadmap/blob/main/%E5%9F%BA%E7%A1%802-%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%9F%BA%E7%A1%80.md
+(foundry 部分)社区资料：https://github.com/MetaNodeAcademy/LearningRoadmap/blob/main/%E8%BF%9B%E9%98%B62-%E5%90%88%E7%BA%A6%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98.md
+中文文档：https://learnblockchain.cn/docs/foundry/i18n/zh/
+推荐博客：https://github.com/AmazingAng/WTF-Solidity/blob/main/Topics/Tools/TOOL07_Foundry/readme.md
+
+9. 下周任务：合约脚手架与典型功能应用 @铮
+1.solidity进阶任务3️⃣
+资料：https://github.com/MetaNodeAcademy/LearningRoadmap/blob/main/%E5%9F%BA%E7%A1%802-%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%9F%BA%E7%A1%80.md
+2.hardhat & foundry合约开发框架学习
+(hardhat 部分)社区资料：https://github.com/MetaNodeAcademy/LearningRoadmap/blob/main/%E5%9F%BA%E7%A1%802-%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%9F%BA%E7%A1%80.md
+(foundry 部分)社区资料：https://github.com/MetaNodeAcademy/LearningRoadmap/blob/main/%E8%BF%9B%E9%98%B62-%E5%90%88%E7%BA%A6%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98.md
+中文文档：https://learnblockchain.cn/docs/foundry/i18n/zh/
+推荐博客：https://github.com/AmazingAng/WTF-Solidity/blob/main/Topics/Tools/TOOL07_Foundry/readme.md
+
+10.同学，出于学员对于社区资料太分散的反馈，为了方便同学的学习，Discord 社区将陆续做收尾并清退成员，dc社区的文档资料已经迁移到GitHub，学习路线这里对应查询： https://github.com/MetaNodeAcademy/LearningRoadmap
+
+

@@ -1,0 +1,6 @@
+projects/GoLearning/bin/dlv.exe
+projects/GoLearning/bin/gopls.exe
+projects/GoLearning/bin/staticcheck.exe
+
+projects/GoLearning/pkg/mod
+projects/GoLearning/pkg/sumdb
