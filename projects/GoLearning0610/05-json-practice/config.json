@@ -1,0 +1,5 @@
+{
+    "rpc_url": "https://eth-mainnet.g.alchemy.com/v2/your-key",
+    "database_url": "sqlite://wallet.db",
+    "port": 8080
+}

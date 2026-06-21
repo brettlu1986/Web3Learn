@@ -1,0 +1,76 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Calculator",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/01-calculator",
+            // "args": [
+            //     "sub",
+            //     "110",
+            //     "5"
+            // ]
+        },
+        {
+            "name": "WalletChecker",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/02-wallet-checker",
+        },
+        {
+            "name": "StudentScore",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/03-student-score",
+        },
+        {
+            "name": "ManageWallet",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/04-manage-wallet",
+        },
+        {
+            "name": "ConfigJson",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/05-json-practice",
+        },
+        {
+            "name": "LogParser",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/06-log-parser",
+        },
+        {
+            "name": "BalanceCheck",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/07-balance-check",
+        },
+        {
+            "name": "RpcExecuter",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/08-rpc-executer",
+        },
+        {
+            "name": "InterfaceChecker",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/09-interface-checker",
+        },
+    ]
+}
